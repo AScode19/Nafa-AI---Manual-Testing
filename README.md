@@ -10,6 +10,15 @@ I have conducted an end-to-end manual SQA (Software Quality Assurance) audit of 
 You can download the latest version of the application for Android testing using the link below:
 
 👉 **[Download Nafa AI APK (v1.0.0)](https://github.com/AScode19/Nafa-AI---Manual-Testing/releases/download/v1.0.0/app-release.apk)**
+--
+## 📺 Project Demo
+Watch the end-to-end flow of the application, including the AI-driven quiz and recommendation engine.
+
+<p align="center">
+  <video src="nafa%20ai.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 
 
