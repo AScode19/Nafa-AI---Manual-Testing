@@ -12,14 +12,8 @@ You can download the latest version of the application for Android testing using
 👉 **[Download Nafa AI APK (v1.0.0)](https://github.com/AScode19/Nafa-AI---Manual-Testing/releases/download/v1.0.0/app-release.apk)**
 --
 ## 📺 Project Demo
-Watch the end-to-end flow of the application, including the AI-driven quiz and recommendation engine.
+Before diving into the technical details, you can watch the full walk-through of the application flow here:
 
-<p align="center">
-  <video src="nafa%20ai.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-
+👉 **[Watch Nafa AI Demo Video](./nafa%20ai.mp4)**
 
 
