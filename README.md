@@ -12,6 +12,4 @@ You can download the latest version of the application for Android testing using
 👉 **[Download Nafa AI APK (v1.0.0)](https://github.com/AScode19/Nafa-AI---Manual-Testing/releases/download/v1.0.0/app-release.apk)**
 --
 ## 📺 Project Demo Video
-Click the preview below to view the full application walkthrough:
-
-[![](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=github)](https://github.com/AScode19/Nafa-AI---Manual-Testing/blob/main/nafa%20ai.mp4)
+ nafa ai.mp4
