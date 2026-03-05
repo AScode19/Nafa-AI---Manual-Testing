@@ -12,4 +12,4 @@ You can download the latest version of the application for Android testing using
 👉 **[Download Nafa AI APK (v1.0.0)](https://github.com/AScode19/Nafa-AI---Manual-Testing/releases/download/v1.0.0/app-release.apk)**
 --
 ## 📺 Project Demo Video
- nafa ai.mp4
+https://github.com/AScode19/Nafa-AI---Manual-Testing/blob/f5cc3c8f878c095dc04a42e4fe86045b7e7faf83/nafa%20ai.mp4
